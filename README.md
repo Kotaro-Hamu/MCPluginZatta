@@ -1,0 +1,2 @@
+# MCPluginZatta
+MinecraftのPaperプラグインを雑多に集めたもの
